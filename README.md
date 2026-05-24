@@ -43,44 +43,44 @@ Passionate Mobile & Full Stack Developer and BBA Finance graduate, trained at **
 ## 🚀 Projects
 
 ### 💬 Aqua Talk — Real-Time Messaging App
-> WhatsApp-style chat app with stories, AI assistant, push notifications and Glassmorphism UI.
-- 🛠️ Flutter • Firebase • Firestore • FCM • Hive • Provider • OpenRouter AI
-- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo/Aqua-Talk)
+> WhatsApp-style chat app with stories, AI assistant and Glassmorphism UI.
+- 🛠️ Flutter • Firebase • Firestore  • Hive • Provider • OpenRouter AI
+- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo/Aqua-Talk.git)
 
 ---
 
-### 💪 Muscles Training Club — AI Fitness App
+### 💪 Muscular Training Club — AI Fitness App
 > Premium fitness app with GPT-4 AI coach, workout planner, diet planner and progress tracking.
 - 🛠️ Flutter • Firebase • Firestore • OpenRouter API • Provider • fl_chart
-- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo)
+- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo/Muscular-Training-Cub.git)
 
 ---
 
 ### 🌍 GenZ Go — AI Travel Planner
 > Travel planner with real-time chat, Foursquare API, interactive maps and AI travel advice.
 - 🛠️ Flutter • Firebase • Foursquare API • flutter_map • Weather API • Provider
-- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo)
+- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo/travel-planner.git)
 
 ---
 
 ### 🤖 Code Buddy — AI Programming Assistant
 > AI powered coding assistant using GPT-4o-mini with offline chat history and multi-language support.
 - 🛠️ Flutter • Dart • Hive • OpenRouter API • GPT-4o-mini
-- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo)
+- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo/Code-Buddy.git)
 
 ---
 
 ### 💰 Hisaab — Offline Finance Tracker
 > 100% offline personal finance app with expense tracking, analytical graphs and full CRUD.
 - 🛠️ Flutter • Dart • Hive • Data Analytics
-- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo)
+- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo/Hisaab.git)
 
 ---
 
-### 🌙 Zikr e Falah — Islamic Tasbeeh App
+### 🌙 Zikar e Falah — Islamic Tasbeeh App
 > Digital tasbeeh counter with custom zikr, vibration feedback and Islamic inspired UI.
 - 🛠️ Flutter • Dart • Material Design • Vibration Package
-- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo)
+- 🔗 [View Repository](https://github.com/testingfinalproject003-sudo/zikar_e_falah.git)
 
 ---
 
@@ -88,18 +88,6 @@ Passionate Mobile & Full Stack Developer and BBA Finance graduate, trained at **
 
 - 🏅 Mobile Application Development — **Bano Qabil**
 - 🏅 Generative AI — **HEC (Higher Education Commission)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=testingfinalproject003-sudo&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testingfinalproject003-sudo&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
