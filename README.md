@@ -20,7 +20,7 @@ Passionate Mobile & Full Stack Developer and BBA Finance graduate, trained at **
 - 📱 Flutter Mobile App Developer  
 - 🤖 Generative AI Certified — HEC
 - 🏫 Bano Qabil — High Performance Track (HPT)
-- 📍 Rawalpindi, Pakistan
+- 📍 Pakistan
 - 💼 Open to: Mobile Development | Fintech | AI | Finance
 
 ---
